@@ -1,0 +1,287 @@
+.jumbotron{
+  background-image: url("../assets/backgrounds/landing.jpg");
+text-align: center;
+width:104%;
+margin-bottom: px;
+}
+
+.glyphicon{
+  background-color: transparent;
+  border: none;
+  float: left;
+  color: white;
+  font-size: 30px;
+}
+
+.modal-body{
+  border-color: #f15A29;
+  height: 360px;
+  width: 900px;
+}
+
+.modal-header{
+  border-color: #f15A29;
+  width: 900px;
+}
+
+.modal-body a{
+  color: black;
+}
+
+#title{
+color: white;
+  font-family: 'jura',sans-serif;
+}
+
+.bar{
+  float:left;
+  font-size: 35px;
+  color: white;
+}
+
+.side-bar{
+  color: black;
+  background-color: #F15A29;
+  display: none;
+  height: 100vh;
+}
+
+.links a{
+  color: black;
+  display: block;
+  font-size: 60px;
+  text-align: center;
+}
+
+#menu{
+  width:107%;
+}
+
+#menu img{
+  box-shadow: inset 0px 0px 0px 20px rgba(255, 255, 255, 0.52);
+  }
+
+  #buffet{
+    width: 100%;
+    padding:65px;
+    color:#f1f1f1;
+    text-align: center;
+    bottom: 0;
+    font-family: 'Philosopher',sans-serif;
+  }
+
+  #breafast{
+    background-image: url("../assets/foodtop/breakfast.jpg");
+  }
+
+  #lunch{
+    background-image: url("../assets/foodtop/lunch.jpg");
+  }
+
+  #dinner{
+    background-image: url("../assets/foodtop/dinner.jpg");
+  }
+
+  .upper{
+    background-color: #e5e5e5;
+    height:97px;
+    width:304px;
+    text-align: center;
+    font-family: 'PT Serif',serif;
+  }
+
+  .lower {
+    background-color: #f15a29;
+    width: 304px;
+    height: 96px;
+    text-align: center;
+    font-family: 'PT Serif', serif;
+  }
+
+  .left-title{
+    font-family: 'PT Serif',serif;
+    color:#444444;
+  }
+
+   .rigth-title{
+      font-family: 'PT Serif',serif;
+      color:#444444;
+    }
+
+#double-image p{
+  padding-top: 20px;
+  font-family: 'IBM Plex Sans Condensed',sans-serif;
+  font-size: 17px;
+}
+
+p{
+  font-size: 17px;
+  font-family: 'IBM Plex Sans Condensed',sans-serif;
+}
+
+.drinks{
+  float:left;
+  text-align: right;
+}
+
+#drink-img{
+  float:right;
+  box-shadow: 0px 0px 19px 0px;
+  padding: 15px;
+  margin-bottom: 35px;
+}
+
+.thumbnail{
+  float:right;
+  box-shadow: 0px 0px 19px 0px;
+  padding: 15px;
+  margin-bottom: 35px;
+}
+
+#Bg{
+  background-image: url("../assets/backgrounds/foodsBg.jpg");
+}
+
+#carousel{
+  padding: 39px;
+  background-color: transparent;
+}
+
+.carousel-control-prev-icon, .carousel-control-next-icon {
+  height: 50px;
+ width: 50px;
+ outline: black;
+ background-size: 100%, 100%;
+ border-radius: 50%;
+ background-image: none;
+}
+
+.carousel-control-icon{
+  font-size: 37px;
+  color:red;
+  padding-top: 25px;
+}
+
+#carousel img{
+  width:50%;
+}
+
+.nav nav-tabs{
+  width: 200px;
+  height:100px;
+}
+
+.image-text{
+  font-size: 15px;
+  color: #f15a29;
+  text-align: center;
+  margin-right: 45px;
+}
+
+.container-fluid{
+  padding:0px;
+}
+
+.nav-tabs{
+  border-bottom: 0px;
+  padding: 0px;
+  background-color: #e5e5e5;
+  font-size: 26px;
+  width: 97.5%;
+  margin-right: 15px;
+  margin-left: 15px;
+}
+
+.nav-tabs li.active a{
+  color: #f15a29;
+  cursor: default;
+  background-color: #fff;
+  border:1px solid #ddd;
+  border-bottom-color: transparent;
+}
+
+.nav-tab li a{
+  color: #333333;
+}
+
+.nav-tabs li.nav1 a{
+  color: #191919;
+}
+
+#customers{
+  width:85%;
+  background-color: white;
+  padding-top: 18px;
+}
+
+.orange{
+  color:#f15a29;
+}
+
+.subscribe{
+  background-image: url("../assets/backgrounds/subscribe.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width:102.65px%;
+  height:245px;
+}
+
+p{
+  color: white;
+}
+.subscribe-form{
+  margin-top: 7%;
+}
+.formcontrol{
+  margin-top: 10%;
+}
+
+.btn-sub{
+  background-color: #f15a29;
+  color:white;
+  height: 50px;
+  width: 155px;
+  margin: 20px
+
+}
+
+#footer{
+  background-color: #f15a29;
+  height:310px;
+}
+
+.icons{
+  align-items: center;
+  width:100%;
+  text-align: center;
+  padding-top: 78px;
+}
+
+.spans{
+  font-size: 25px;
+}
+
+.pic1:hover{
+  opacity:0.3;
+  webkit-transition:opacity .25s height:300px;
+  color: black;
+  background-color: white;
+}
+
+.pic2:hover{
+  opacity:0.3;
+  webkit-transition:opacity .25s height:300px;
+  color: black;
+  background-color: white;
+}
+
+.pic3:hover{
+  opacity:0.3;
+  webkit-transition:opacity .25s height:300px;
+  color: black;
+  background-color: white;
+}
+
+#buffet:hover{
+  color: black;
+}
