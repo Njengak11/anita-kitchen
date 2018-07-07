@@ -5,6 +5,7 @@ width:104%;
 margin-bottom: px;
 }
 
+
 .glyphicon{
   background-color: transparent;
   border: none;
@@ -126,40 +127,23 @@ p{
 
 #drink-img{
   float:right;
-  box-shadow: 0px 0px 19px 0px;
   padding: 15px;
   margin-bottom: 35px;
 }
 
-.thumbnail{
+.food{
   float:right;
-  box-shadow: 0px 0px 19px 0px;
   padding: 15px;
   margin-bottom: 35px;
 }
 
-#Bg{
+.bg{
   background-image: url("../assets/backgrounds/foodsBg.jpg");
 }
 
 #carousel{
   padding: 39px;
   background-color: transparent;
-}
-
-.carousel-control-prev-icon, .carousel-control-next-icon {
-  height: 50px;
- width: 50px;
- outline: black;
- background-size: 100%, 100%;
- border-radius: 50%;
- background-image: none;
-}
-
-.carousel-control-icon{
-  font-size: 37px;
-  color:red;
-  padding-top: 25px;
 }
 
 #carousel img{
@@ -208,80 +192,62 @@ p{
   color: #191919;
 }
 
-#customers{
-  width:85%;
+#customers {
+  width: 85%;
   background-color: white;
   padding-top: 18px;
 }
 
-.orange{
-  color:#f15a29;
+.orange {
+  color: #f15a29;
 }
 
-.subscribe{
-  background-image: url("../assets/backgrounds/subscribe.jpg");
+.subscribe {
+  background-image: url('../assets/backgrounds/subscribe.jpg');
   background-repeat: no-repeat;
   background-size: cover;
-  width:102.65px%;
-  height:245px;
-}
-
-p{
+  width: 102.65%;
+  height: 245px;
   color: white;
 }
-.subscribe-form{
-  margin-top: 7%;
-}
-.formcontrol{
-  margin-top: 10%;
-}
 
-.btn-sub{
+#footer {
   background-color: #f15a29;
-  color:white;
-  height: 50px;
-  width: 155px;
-  margin: 20px
-
+  height: 310px;
 }
 
-#footer{
-  background-color: #f15a29;
-  height:310px;
-}
-
-.icons{
+.icons {
   align-items: center;
-  width:100%;
+  width: 100%;
   text-align: center;
   padding-top: 78px;
 }
 
-.spans{
+.spans {
   font-size: 25px;
 }
 
-.pic1:hover{
-  opacity:0.3;
-  webkit-transition:opacity .25s height:300px;
+.pic1:hover {
+  opacity: 0.3;
+  webkit-transition: opacity .25s height: 300px;
   color: black;
   background-color: white;
 }
 
-.pic2:hover{
-  opacity:0.3;
-  webkit-transition:opacity .25s height:300px;
+.pic2:hover {
+  opacity: 0.3;
+  webkit-transition: opacity .25s height: 200px;
   color: black;
   background-color: white;
 }
 
-.pic3:hover{
-  opacity:0.3;
-  webkit-transition:opacity .25s height:300px;
+.pic3:hover {
+  opacity: 0.3;
+  webkit-transition: opacity .25s height: 200px;
   color: black;
   background-color: white;
 }
 
-#buffet:hover{
+#buffet:hover {
   color: black;
 }
